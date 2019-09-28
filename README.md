@@ -11,3 +11,5 @@
 - baseline.ipynb - простая модель для нижней оценки качества
 - BaseAttention.ipynb - модель №1
 - BestResult.ipynb - модель №2
+
+Для запуска 2 модели требуется предварительно загруженный [Glove](https://nlp.stanford.edu/projects/glove/) на 6B токенов.  
